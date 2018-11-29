@@ -1,1 +1,4 @@
-FROM hello-world:latest
+FROM alpine:latest
+
+RUN sleep 120
+
